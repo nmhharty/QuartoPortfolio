@@ -1,13 +1,15 @@
 ---
-title: "Sample Projects"
+title: "Projects"
 listing: 
   id: projects-listing
+  type: grid
   contents: 
     - Projects
+  fields: [image, title, subtitle]
   sort: "title"
 ---
 
-Descriptions of past projects are available below, including final reports and publications.  
+<!--Descriptions of past projects are available below, including final reports and publications.  -->
 
 ::: {#projects-listing}
 :::

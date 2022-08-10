@@ -1,6 +1,7 @@
 ---
 title: "Kids, Cops, and Community"
 subtitle: "A qualitative assessment of police-community relations in Aurora, CO"
+image: KCC.png
 ---
 
 # Background  

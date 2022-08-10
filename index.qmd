@@ -1,14 +1,13 @@
 ---
 title: "Nicole Harty, MPH"
 about: 
-  template: broadside
+  template: jolla
   image: NH.jpg
   links: 
     - icon: github
       text: Github
       href: https://github.com/nmhharty
-    - icon: link-45deg
-      text: Resume
+    - text: "{{< fa regular file >}}  Resume"
       href: https://docs.google.com/document/d/1MyQs7jgSp3wSKrzz_-kFQ5e5jHJk7yx6/edit?usp=sharing&ouid=107035069803069764702&rtpof=true&sd=true
 
 ---
@@ -17,7 +16,7 @@ Nicole is a public health data specialist with expertise in program evaluation, 
 
 ## Education  
 
-**Colorado School of Public Health**, University of Colorado Anschutz Medical Campus  
+**Colorado School of Public Health**  
 Masters in Public Health
 
 **New York University**  

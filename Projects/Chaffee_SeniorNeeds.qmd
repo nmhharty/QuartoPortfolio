@@ -2,7 +2,8 @@
 title: "Chaffee County Senior Needs Assessment"
 subtitle: "Analysis and report of findings from survey of seniors in rural Colorado county"
 image: ChaffeeSeniorNeeds.png
-
+resources: 
+    - "Projects/ChaffeeCountySeniorNeedsAssessmentReport.pdf"
 ---
 
 # Background  
@@ -31,4 +32,4 @@ none
 
 # Results  
 
-[Final Report]("Chaffee County Senior Needs Assessment Report.pdf")
+[Final Report]("Projects/ChaffeeCountySeniorNeedsAssessmentReport.pdf")

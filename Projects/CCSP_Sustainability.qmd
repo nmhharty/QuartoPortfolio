@@ -1,6 +1,7 @@
 ---
 title: "Sustainability of Colorectal Screening Patient Navigation"
 subtitle: "Case studies of sustainability approaches used by Colorado Cancer Screening Program partner clinics to support patient navigation for cancer screening"
+image: CCSP.png
 
 ---
 
@@ -17,7 +18,7 @@ April 2017 - July 2018
 * Conducted 2 case studies with CCSP partner clinics to understand how they make the business case for paying for patient navigation  
 * Performed literature review of cost-effectiveness studies of patient navigation for cancer screening  
 * Adapted [Program Sustainability Assessment Tool](https://sustaintool.org) to meet the needs of clinical partners  
-  + CCSP continuted this work to adapt the PSAT into the CSAT which is now available from Washington Univeristy in St. Louis partners
+  + CCSP continuted this work to adapt the PSAT into the CSAT which is now available from Washington Univeristy in St. Louis partners  
 * Vetted worksheets, surveys, and content with variety of community partners including non-profits and community clinics  
 * Synthesized findings into 5 example case studies for dissemination
 
@@ -26,9 +27,11 @@ April 2017 - July 2018
 
 * Survey to assess sustainability planning readiness  
 * Sustainability Logic Model  
-* Worksheets for adapting Sustainability Logic Model and identifying areas of improvement in sustainability domains  
-* More tools from this project: [Sustainability of Patient Navigation for Preventive Cancer Screening](https://sites.google.com/view/ccsp-pn-sustainability/home?authuser=0)
+* Worksheets for adapting [Sustainability Logic Model](https://drive.google.com/file/d/1TYUzJMo26F3mp96u65Pvh4ldx8gwZzuv/view) and identifying areas of improvement in sustainability domains  
+* More tools from this project: [Sustainability of Patient Navigation for Preventive Cancer Screening](https://sites.google.com/view/ccsp-pn-sustainability/)
 
 # Results  
 
-Final report: 
+{{< fa file-pdf >}} [Patient Navigation Sustainability Case Studies](https://drive.google.com/drive/u/0/folders/1WXctDnZLg6mlSJDPu7UlPBKmDN2FZrMq)
+
+{{< fa file-lines >}} [Making the Business Case for CRC Patient Navigation in the Primary Care Safety-Net Clinic](https://drive.google.com/file/d/1RI8Udt7jk9pajq0yS2Jm3Og-DOfCxe1l/view)

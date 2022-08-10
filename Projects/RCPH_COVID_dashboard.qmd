@@ -1,6 +1,7 @@
 ---
 title: "Routt County Public Health COVID-19 Dashboard"
 subtitle: "Continuous enhancements to public-facing and internal dashboards to communicate COVID-19 surveillance information"
+image: COVIDdash.png
 
 ---
 

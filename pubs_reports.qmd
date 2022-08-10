@@ -5,7 +5,7 @@ title: "Publications and Reports"
 
 ::: {.panel-tabset}
 
-## Peer-Reviewed Articles  
+## {{< fa landmark >}} Articles  
 
 ### 2022  
 
@@ -24,7 +24,7 @@ Bennett, A.J., Perkins, C.M., **Harty, N.M.**, Luck, M.L., & Pierre, P.J. (2014)
   
 
 
-## Conference, Workshop, and Poster Presentations  
+## {{< fa chart-line >}}  Conference Presentations  
 
 ### 2021  
 
@@ -69,7 +69,7 @@ Friedman, B., **Harty, N.M.**, Tung, G. (2017, September). *Kids, Cops, and Comm
 **Harty, N.M.**, Warren, L., Wolf, H. (2015, September). *Improving Patient Navigation for Cancer Screening: Evidence from the Colorado Colorectal Screening Program*. Poster presentation at the 2015 Public Health in the Rockies Conference, Vail, CO.  
 
 
-## Prepared Reports  
+## {{< fa file-pdf >}} Reports  
 
 ### 2020  
 
