@@ -1,0 +1,15 @@
+---
+title: "Sample Projects"
+listing: 
+  id: projects-listing
+  contents: 
+    - Projects
+  sort: "title"
+---
+
+Descriptions of past projects are available below, including final reports and publications.  
+
+::: {#projects-listing}
+:::
+
+

@@ -1,0 +1,34 @@
+---
+title: "Sustainability of Colorectal Screening Patient Navigation"
+subtitle: "Case studies of sustainability approaches used by Colorado Cancer Screening Program partner clinics to support patient navigation for cancer screening"
+
+---
+
+# Background  
+
+The Colorado Cancer Screening Program (formerly the Colorado Colorectal Screening Program), CCSP, has been providing evidence-based patient navigation and cancer screening services in partnership with safety-net clinics throughout Coloradans since 2006. With changes in health insurance and payment reform stemming from the Affordable Care Act and Medicaid expansion, along with reduced funding for CCSP, safety-net partner clinics had more opportunity and an increased need to sustain and fund preventative screening patient navigation within their clinical operations. This project set the foundation for the sustainability work CCSP undertook beggining in 2018.   
+
+# Timeline  
+
+April 2017 - July 2018 
+
+# Main Activities  
+  
+* Conducted 2 case studies with CCSP partner clinics to understand how they make the business case for paying for patient navigation  
+* Performed literature review of cost-effectiveness studies of patient navigation for cancer screening  
+* Adapted [Program Sustainability Assessment Tool](https://sustaintool.org) to meet the needs of clinical partners  
+  + CCSP continuted this work to adapt the PSAT into the CSAT which is now available from Washington Univeristy in St. Louis partners
+* Vetted worksheets, surveys, and content with variety of community partners including non-profits and community clinics  
+* Synthesized findings into 5 example case studies for dissemination
+
+
+# Tools Created  
+
+* Survey to assess sustainability planning readiness  
+* Sustainability Logic Model  
+* Worksheets for adapting Sustainability Logic Model and identifying areas of improvement in sustainability domains  
+* More tools from this project: [Sustainability of Patient Navigation for Preventive Cancer Screening](https://sites.google.com/view/ccsp-pn-sustainability/home?authuser=0)
+
+# Results  
+
+Final report: 

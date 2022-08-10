@@ -1,0 +1,34 @@
+---
+title: "Chaffee County Senior Needs Assessment"
+subtitle: "Analysis and report of findings from survey of seniors in rural Colorado county"
+image: ChaffeeSeniorNeeds.png
+
+---
+
+# Background  
+
+The 2016-2021 Chaffee County Community Health Improvement Plan identified Senior Supports and Services as a focus area. In response, the community formed a Senior Planning Committee that fielded a survey to area seniors in winter 2019-2020 to gather details about their specific needs as they age.  
+
+Nicole was asked to conduct the analysis of this survey and share the findings with the Senior Planning Committee.  
+
+# Timeline 
+
+December 2019 through July 2020  
+
+# Main Activities  
+
+* Conduct analysis of survey results that were collected by the Senior Planning Committee  
+  + Clean and wrangle raw data for analysis in R  
+  + Conduct descriptive statistics in R
+  + Code qualitative data and perform mixed-methods crosstabs analysis in [Dedoose](https://dedoose.com)
+* Prepare infographic summary that can be posted on social media and community bulletin boards  
+* Create presentation slides and present findings to Senior Planning Committee  
+* Write final narrative report  
+
+# Tools Created  
+
+none  
+
+# Results  
+
+[Final Report]("Chaffee County Senior Needs Assessment Report.pdf")

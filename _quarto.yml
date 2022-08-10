@@ -1,0 +1,28 @@
+project:
+  type: website
+  resources: 
+    - "*.pdf"
+
+website:
+  title: "Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - pubs_reports.qmd
+      - projects.qmd
+
+body-header: |
+  Website created by Nicole Harty, 2022.
+
+execute: 
+  freeze: auto
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

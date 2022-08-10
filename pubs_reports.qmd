@@ -1,0 +1,92 @@
+---
+title: "Publications and Reports"
+
+---
+
+::: {.panel-tabset}
+
+## Peer-Reviewed Articles  
+
+### 2022  
+
+Dwyer, A.J., Weltzien, E., **Harty, N.M.**, Le Grice, K., Pray, S., Risendal, B. (2022). *What Makes for Successful Patient Navigation Implementation in Cancer Prevention and Screening Programs Using an Evaluation and Sustainability Framework*. Cancer, 28: 2636-48. [{{< fa link >}}](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.34058)    
+  
+### 2019  
+
+**Harty, N.M.**, Friedman, B., Tung, Gregory. (2019). *Kids, Cops, and Community: A Qualitative Assessment of Police, Youth, and Parent Perceptions of Each Other*. Journal of Public Health Management and Practice. [{{< fa link >}}](https://pubmed.ncbi.nlm.nih.gov/30789600/)    
+  
+### 2018  
+
+**Harty, N.M.**, Le Grice, K., Cahill, C., Bull, S., Dwyer, A. (2018). *EndCancer: Development and Pilot Testing of Multimedia Recruitment for a Text Message Campaign to Increase Cancer Screening*. mHealth. [{{< fa link >}}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6232046/)      
+  
+### 2014  
+Bennett, A.J., Perkins, C.M., **Harty, N.M.**, Luck, M.L., & Pierre, P.J. (2014). *Towards an Evidence-Based Allocation of Resources for Captive Nonhuman Primate Environmental Enrichment: A Cost:Benefit Analysis Model*. Journal of the American Association of Laboratory Animal Science, 53(5): 452-63. [{{< fa link >}}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4181686/)
+  
+
+
+## Conference, Workshop, and Poster Presentations  
+
+### 2021  
+
+Estrada, M., **Harty, N.M.**, Bekman, S. & Roy, M. (2021, October). *Building Infant and Early Childhood Mental Health Capacity in Colorado through a Virtual Community*. Presentation at the American Public Health Association Conference, Denver, CO.  
+  
+Estrada, M., Bellamy, M., **Harty, N.M.**, & Roy, M. (2021, October). *Home-based Care During the Pandemic: Outcomes of Evidence-Based Mental Health Treatment for Young Children and Their Families*. Presentation at the American Public Health Association Conference, Denver, CO.  
+
+**Harty, N.M.** (2021). *R and R Markdown 3-Part Series*. Workshop hosted by Colorado Evaluation Network, Virtual.
+  
+Morrison, F., **Harty, N.M.**, Maxwell, B., Smith, R., Harrington, B. (October, 2021). *Creating a Local COVID-19 Dashboard to Inform Residents and Leaders in a Rural Mountain County*. Presentation at the 2021 American Public Health Association Conference, Denver, CO.  
+
+### 2020  
+
+Collier, P., **Harty, N.M.**, Kelleman, B., Varda, D. (2020, June). *Community of Practice: Technology in Evaluation*. Presentation to Colorado Evaluation Network, Virtual.  
+
+Harris, E., Mixer, M., Slater, T., & **Harty, N.M.** (2020, October). *Opportunities and Challenges in Bringing Equitable Evaluation Practices to Internal Evaluation Projects*. Session moderator at Evaluation 2020 Conference, Virtual.  
+
+**Harty, N.M.**, Mixer, M., Slater, T., Williams, W. (2020, November). *Leveraging Data to Inform a Mental Health Center's COVID-19 Response in a Rapidly Changing Environment*. Presentation at the Colorado Behavioral Health and Wellness Conference, Virtual.   
+  
+### 2018  
+
+**Harty, N.M.** & Dwyer, A. (2018, September). *Implementing a Quality and Sustainable Colorectal Cancer Patient Navigation Program*. Presentation at the 2019 Ohio Association of Community Health Centers Conference, Columbus, OH.  
+
+Le Grice, K., **Harty, N.M.**, & Dwyer, A. (2018, April). *Patient Navigation Training for Diverse Communities: A Qualitative Analysis of Barriers to Timely Colorectal Cancer Screening Among Low-Income and Medically Underserved Coloradans*. Poster presentation at the 2018 Dialogue for Action, Tysons, VA.  
+
+### 2017  
+
+Friedman, B., **Harty, N.M.**, Tung, G. (2017, September). *Kids, Cops, and Community: A Qualitative Assessment of Police, Youth, and Parent Perceptions of Each Other in Aurora, Colorado to Inform Police-Community Relations Programming*. Poster presentation at the 2017 Public Health in the Rockies Conference  
+  
+**Harty, N.M.**, Friedman, B., Barrett, D., Tung, Gregory. (2017, November). *Understanding Police and Youth Perceptions of Each Other to Inform Gang Prevention and Intervention Activities in Aurora, Colorado*. Presentation at the 2017 American Public Health Association Conference, Atlanta, GA.  
+
+### 2016  
+
+**Harty, N.M.**, Warren, L., Wolf, H. (2016, February). *Improving Patient Navigation for Cancer Screening: Evidence from the Colorado Colorectal Screening Program*. Poster presentation at the Annual Student Research Forum, Aurora, CO.  
+
+**Harty, N.M.** (2016, October). *Planning and Implementing an Urban Indian Health Center's Evidence-Based Traditional Healing Behavioral Health Program: Lessons Learned and a Call to Action*. Presentation at the 2016 American Public Health Association Conference, Denver, CO.   
+  
+**Harty, N.M.**, Solopow, S., Kellar-Guenthar, Y. (2016, May). *Culture as Medicine: Planning and Implementing an Urban Indian Health Organization’s Culturally-Based Integrated Care Program*. Poster presentation at the Colorado School of Public Health Spring Forum, Aurora, CO.  
+  
+### 2015  
+
+**Harty, N.M.**, Warren, L., Wolf, H. (2015, September). *Improving Patient Navigation for Cancer Screening: Evidence from the Colorado Colorectal Screening Program*. Poster presentation at the 2015 Public Health in the Rockies Conference, Vail, CO.  
+
+
+## Prepared Reports  
+
+### 2020  
+
+**Harty, N.M.** and Honce, G.H. (2020). *Chaffee County Senior Needs Assessment*. Report prepared for Chaffee County Senior Planning Committee.  
+  
+Slater, T., Mixer, M, **Harty, N.M.** (2020). *Staff Perceptions and Experiences with Anti-Black Racism*. Report prepared for Mental Health Center of Denver Executive Management.  
+
+### 2017  
+
+**Harty, N.M.** (2017). ViP (Violence Prevention) *Year 2 Evaluation Report to Colorado Department of Criminal Justice. Report prepared for ViP Project Team and ViP Funder*.  
+
+Mortimer, H., **Harty, N.M.** (2017). *Making Logic Out of Stakeholder Engagement: Developing the Basis for an Evaluation Plan*. Report prepared for members of Aurora’s Gang Reduction Impact Project Steering Committee.  
+
+### 2016  
+Bentley, J., Brooks, X., Fenn, A., **Harty, N.M.**, Neff, H., Phyo, Z., Seigneur, F., Waln, E. (2016). *Chaffee County Community Health Assessment 2016*. Report prepared for Chaffee County Public Health.  
+
+**Harty, N.M.** (2016). *Statewide Colorectal Cancer Screening Needs Assessment*. Report prepared on behalf of the Colorado Colorectal Screening Program.  
+
+
+:::

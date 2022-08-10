@@ -1,0 +1,45 @@
+---
+title: "Routt County Public Health COVID-19 Dashboard"
+subtitle: "Continuous enhancements to public-facing and internal dashboards to communicate COVID-19 surveillance information"
+
+---
+
+# Background  
+
+One of Nicole's first tasks when hired as Routt County Public Health's Epidemiologist/Data Manager in September 2020 was to redesign and improve the existing COVID-19 dashbaord used by the county. The requirements for this dashboard, based upon feedback from policy makers and department staff, were  
+
+1. provide locally-relevant, comprehensive surveillance data  
+2. use thresholds and categories that are consistent with those used by the State of Colorado  
+3. ensure reproducibility of analysis and adaptability of tools to accommodate changing data and changing questions   
+
+Nicole led all development and enhancements of this project through May 2022 when she left her position with Routt County. The dashboard continues to be published but development and enhancements have stopped.  
+
+# Timeline  
+
+September 2020 - May 2022
+
+# Main Activities  
+
+* Recreate analyses conducted in Excel and Google Data Studio in R Markdown 
+* Create interactive, flexible, dynamic graphs using plotly  
+* Document all changes to dashboard data sources and analyses  
+* Ensure reproducibility of analysis using GitHub for change management  
+* Create presentation slides for Board of Health meetings presenting the same graphs as dashboard  
+* Refactor code to use child Rmd files for report sections to allow for ultimate flexibility and streamlined rendering across output files    
+* Deploy regular updates and enhancements to answer new questions and address data quality concerns  
+
+# Tools Created  
+
+* Public COVID-19 Dashboard  
+  + Summary graphs and tables detailing cumulative and rolling incidence  
+  + Summary tables detailing vaccination rates  
+  + Summary graphs detailing source of exposure, outbreak setting, and residency of cases
+* Internal COVID-19 Dashboard  
+  + Everything included in public dashboard
+  + Summary tables of vaccine compliance, distribution, and data quality  
+  + Summary graphs of case investigation and contact tracing metrics  
+* Individual School District-specific COVID-19 Dashboards  
+
+# Results  
+
+[GitHub Repository for Dashboard](https://github.com/nmhharty/COVID-Dashboard)

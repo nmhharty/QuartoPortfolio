@@ -1,0 +1,32 @@
+---
+title: "Nicole Harty, MPH"
+about: 
+  template: broadside
+  image: NH.jpg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/nmhharty
+    - icon: link-45deg
+      text: Resume
+      href: https://docs.google.com/document/d/1MyQs7jgSp3wSKrzz_-kFQ5e5jHJk7yx6/edit?usp=sharing&ouid=107035069803069764702&rtpof=true&sd=true
+
+---
+
+Nicole is a public health data specialist with expertise in program evaluation, community health assessments, and program planning. She is skilled at making data relevant and actionable for community members and policy-makers alike. When she is not using data to advance health equity, she is paddling whitewater rapids or skiing in the forests of her Colorado backyard. 
+
+## Education  
+
+**Colorado School of Public Health**, University of Colorado Anschutz Medical Campus  
+Masters in Public Health
+
+**New York University**  
+BS in Neural Science
+
+## Experience 
+
+**Self-Employed** | Public Health Program Evaluation and Data Consultant | April 2016 - Present  
+**Routt County Public Health** | Epidemiologist/Data Manager | Sept 2020 - May 2022  
+**WellPower** (formerly Mental Health Center of Denver) | Program Evaluator | Oct 2018 - Jan 2021  
+**Colorado School of Public Health** | Project and Evaluation Coordinator | Jan 2015 - Oct 2018  
+**Harlow Center for Biological Psychology** | Neurobehavioral Research Assistant | Dec 2011 - April 2013  
