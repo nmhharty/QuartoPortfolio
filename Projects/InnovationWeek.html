@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Portfolio - R Markdown Reproducible Reporting Template</title>
+<title>Nicole Harty, MPH - R Markdown Reproducible Reporting Template</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -34,6 +34,8 @@ ul.task-list{list-style: none;}
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -65,7 +67,7 @@ ul.task-list{list-style: none;}
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">Portfolio</span>
+    <span class="navbar-title">Nicole Harty, MPH</span>
   </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
@@ -79,7 +81,12 @@ ul.task-list{list-style: none;}
     <a class="nav-link" href="../pubs_reports.html">Publications and Reports</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../projects.html">Sample Projects</a>
+    <a class="nav-link" href="../projects.html">Projects</a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://docs.google.com/document/d/1MyQs7jgSp3wSKrzz_-kFQ5e5jHJk7yx6/edit?usp=sharing&amp;ouid=107035069803069764702&amp;rtpof=true&amp;sd=true"><i class="fa-regular fa-file" aria-hidden="true"></i> Resume</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -97,8 +104,8 @@ ul.task-list{list-style: none;}
    
   <ul>
   <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
-  <li><a href="#main-activities" id="toc-main-activities" class="nav-link" data-scroll-target="#main-activities">Main Activities</a></li>
   <li><a href="#timeline" id="toc-timeline" class="nav-link" data-scroll-target="#timeline">Timeline</a></li>
+  <li><a href="#main-activities" id="toc-main-activities" class="nav-link" data-scroll-target="#main-activities">Main Activities</a></li>
   <li><a href="#tools-created" id="toc-tools-created" class="nav-link" data-scroll-target="#tools-created">Tools Created</a></li>
   <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
   </ul>
@@ -110,7 +117,7 @@ ul.task-list{list-style: none;}
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">R Markdown Reproducible Reporting Template</h1>
-<p class="subtitle lead">A project of the Mental Health Center of Denver’s Innovation Week 2019 - creating a template R Markdown report to be used by the evalutiona and research team to prepare quarterly and annual program reports</p>
+<p class="subtitle lead">A project of WellPower’s Innovation Week 2019 - creating a template R Markdown report to be used by the evalution and research team to prepare quarterly and annual program reports</p>
 </div>
 
 
@@ -126,19 +133,35 @@ ul.task-list{list-style: none;}
 
 <section id="background" class="level1">
 <h1>Background</h1>
-</section>
-<section id="main-activities" class="level1">
-<h1>Main Activities</h1>
+<p>WellPower (formerly the Mental Health Center of Denver) hosts an Innovation Week within the Information Systems department each year. This is a week where the department takes a pause from regular projects and focused resources on innovative, proof of concept projects with the aim to bring them into production by the end of the week. In 2019, I pitched a project to recruit department members to support me in developing a template R Markdown file to be used by any of my evaluation and research team colleagues.</p>
+<p>I was the first staff person at WellPower to use R Markdown for reproducible, semi-automated reporting beginning in early 2019. However, I had not had the opportunity to dig into the full power of this tool. I used Innovation Week to build a more sustainable approach to using R Markdown and to teach my evaluation and research team colleagues how to use the template.</p>
 </section>
 <section id="timeline" class="level1">
 <h1>Timeline</h1>
-<p>November 2019</p>
+<p>One week in November 2019</p>
+</section>
+<section id="main-activities" class="level1">
+<h1>Main Activities</h1>
+<ul>
+<li>Learn about package development in R<br>
+</li>
+<li>Simplify an existing R Markdown report used for an existing program’s annual reporting<br>
+</li>
+<li>Annotate this existing R Markdown file with descriptions of the YAML header, file setup, code chunks, inline code, report sections, and commenting</li>
+</ul>
 </section>
 <section id="tools-created" class="level1">
 <h1>Tools Created</h1>
+<ul>
+<li>Custom CSS with organization’s branding and style guidance to apply to all reports<br>
+</li>
+<li>R package to be used as a template when opening a new R Markdown file from the R Studio GUI</li>
+<li>R Markdown example</li>
+</ul>
 </section>
 <section id="results" class="level1">
 <h1>Results</h1>
+<p><i class="fa-brands fa-github" aria-hidden="true"></i> <a href="https://github.com/nmhharty/MHCD-Innovation-Week-2019">GitHub Repository</a></p>
 
 
 </section>
@@ -242,6 +265,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left"><i class="fa-regular fa-copyright" aria-hidden="true"></i> Nicole Harty, 2022. Made with <a href="https://quarto.org">Quarto</a>.</div>   
+  </div>
+</footer>
 
 
 
