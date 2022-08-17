@@ -4,14 +4,14 @@
     "href": "Projects/RCPH_COVID_dashboard.html",
     "title": "Routt County Public Health COVID-19 Dashboard",
     "section": "",
-    "text": "Timeline\nSeptember 2020 - May 2022\n\n\nMain Activities\n\nRecreate analyses conducted in Excel and Google Data Studio in R Markdown\nCreate interactive, flexible, dynamic graphs using plotly\n\nDocument all changes to dashboard data sources and analyses\n\nEnsure reproducibility of analysis using GitHub for change management\n\nCreate presentation slides for Board of Health meetings presenting the same graphs as dashboard\n\nRefactor code to use child Rmd files for report sections to allow for ultimate flexibility and streamlined rendering across output files\n\nDeploy regular updates and enhancements to answer new questions and address data quality concerns\n\n\n\nTools Created\n\nPublic COVID-19 Dashboard\n\nSummary graphs and tables detailing cumulative and rolling incidence\n\nSummary tables detailing vaccination rates\n\nSummary graphs detailing source of exposure, outbreak setting, and residency of cases\n\nInternal COVID-19 Dashboard\n\nEverything included in public dashboard\nSummary tables of vaccine compliance, distribution, and data quality\n\nSummary graphs of case investigation and contact tracing metrics\n\n\nIndividual School District-specific COVID-19 Dashboards\n\n\n\nResults\nGitHub Repository for Dashboard"
+    "text": "Timeline\nSeptember 2020 - May 2022\n\n\nMain Activities\n\nRecreate analyses conducted in Excel and Google Data Studio in R Markdown\nCreate interactive, flexible, dynamic graphs using plotly\n\nDocument all changes to dashboard data sources and analyses\n\nEnsure reproducibility of analysis using GitHub for change management\n\nCreate presentation slides for Board of Health meetings presenting the same graphs as dashboard\n\nRefactor code to use child Rmd files for report sections to allow for ultimate flexibility and streamlined rendering across output files\n\nDeploy regular updates and enhancements to answer new questions and address data quality concerns\n\n\n\nTools Created\n\nPublic COVID-19 Dashboard\n\nSummary graphs and tables detailing cumulative and rolling incidence\n\nSummary tables detailing vaccination rates\n\nSummary graphs detailing source of exposure, outbreak setting, and residency of cases\n\nInternal COVID-19 Dashboard\n\nEverything included in public dashboard\nSummary tables of vaccine compliance, distribution, and data quality\n\nSummary graphs of case investigation and contact tracing metrics\n\n\nIndividual School District-specific COVID-19 Dashboards\n\n\n\nResults\n GitHub Repository for Dashboard\n GitHub Repository for Other Required Files\n Routt County COVID Dashboard"
   },
   {
     "objectID": "Projects/Chaffee_SeniorNeeds.html",
     "href": "Projects/Chaffee_SeniorNeeds.html",
     "title": "Chaffee County Senior Needs Assessment",
     "section": "",
-    "text": "Timeline\nDecember 2019 through July 2020\n\n\nMain Activities\n\nConduct analysis of survey results that were collected by the Senior Planning Committee\n\nClean and wrangle raw data for analysis in R\n\nConduct descriptive statistics in R\nCode qualitative data and perform mixed-methods crosstabs analysis in Dedoose\n\nPrepare infographic summary that can be posted on social media and community bulletin boards\n\nCreate presentation slides and present findings to Senior Planning Committee\n\nWrite final narrative report\n\n\n\nTools Created\nnone\n\n\nResults\nFinal Report"
+    "text": "Timeline\nDecember 2019 through July 2020\n\n\nMain Activities\n\nConduct analysis of survey results that were collected by the Senior Planning Committee\n\nClean and wrangle raw data for analysis in R\n\nConduct descriptive statistics in R\nCode qualitative data and perform mixed-methods crosstabs analysis in Dedoose\n\nPrepare infographic summary that can be posted on social media and community bulletin boards\n\nCreate presentation slides and present findings to Senior Planning Committee\n\nWrite final narrative report\n\n\n\nTools Created\nnone\n\n\nResults\nChaffee County Senior Master Plan Survey and Interview Analysis Report"
   },
   {
     "objectID": "Projects/CCSP_Sustainability.html",
@@ -28,11 +28,18 @@
     "text": "Timeline\nOctober 2017 - September 2018\n\n\nMain Activities\n\nFacilitate monthly working group meetings with community members, community organization representatives, and criminal justice system representatives\n\nAim 1: tensions between police and youth\n\nConduct interviews and focus groups with youth, parents, and police officers\n\nConduct a literature review of best practices in resolving tensions between police and communities of color\nSummarize findings into list of recommendations for police department and community\n\n\nAim 2: evaluation plan\n\nCreate a logic model, goals, and objectives for A-GRIP’s programming\n\nDesign a procedure to collect data and assess relationship between case management services and recidivism rate\n\n\n\n\nTools Created\n\nInterview guide\n\nFocus group script\n\nLogic Model\n\n\n\nResults\nMaking Logic Out of Stakeholder Engagement: Developing the Basis for an Evaluation Plan\nKids, Cops, and Community: A Qualitative Assessment of Police, Youth, and Parent Perceptions of Each Other"
   },
   {
+    "objectID": "Projects/InnovationWeek.html",
+    "href": "Projects/InnovationWeek.html",
+    "title": "R Markdown Reproducible Reporting Template",
+    "section": "",
+    "text": "Timeline\nOne week in November 2019\n\n\nMain Activities\n\nLearn about package development in R\n\nSimplify an existing R Markdown report used for an existing program’s annual reporting\n\nAnnotate this existing R Markdown file with descriptions of the YAML header, file setup, code chunks, inline code, report sections, and commenting\n\n\n\nTools Created\n\nCustom CSS with organization’s branding and style guidance to apply to all reports\n\nR package to be used as a template when opening a new R Markdown file from the R Studio GUI\nR Markdown example\n\n\n\nResults\n GitHub Repository"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Analysis and report of findings from survey of seniors in rural Colorado county\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA qualitative assessment of police-community relations in Aurora, CO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContinuous enhancements to public-facing and internal dashboards to communicate COVID-19 surveillance information\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCase studies of sustainability approaches used by Colorado Cancer Screening Program partner clinics to support patient navigation for cancer screening\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Analysis and report of findings from survey of seniors in rural Colorado county\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA qualitative assessment of police-community relations in Aurora, CO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA project of WellPower’s Innovation Week 2019 - creating a template R Markdown report to be used by the evalution and research team to prepare quarterly and annual program reports\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContinuous enhancements to public-facing and internal dashboards to communicate COVID-19 surveillance information\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCase studies of sustainability approaches used by Colorado Cancer Screening Program partner clinics to support patient navigation for cancer screening\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -53,7 +60,7 @@
     "href": "index.html#experience",
     "title": "Nicole Harty, MPH",
     "section": "Experience",
-    "text": "Experience\nSelf-Employed | Public Health Program Evaluation and Data Consultant | April 2016 - Present\nRoutt County Public Health | Epidemiologist/Data Manager | Sept 2020 - May 2022\nWellPower (formerly Mental Health Center of Denver) | Program Evaluator | Oct 2018 - Jan 2021\nColorado School of Public Health | Project and Evaluation Coordinator | Jan 2015 - Oct 2018\nHarlow Center for Biological Psychology | Neurobehavioral Research Assistant | Dec 2011 - April 2013"
+    "text": "Experience\nSelf-Employed | Public Health Program Evaluation and Data Consultant | April 2016 - Present\nRoutt County Public Health | Epidemiologist/Data Manager | Sept 2020 - May 2022\nWellPower (formerly Mental Health Center of Denver) | Program Evaluator | Oct 2018 - Jan 2021\nColorado School of Public Health | Project and Evaluation Coordinator | Jan 2015 - Oct 2018\nHarlow Center for Biological Psychology | Research Assistant | Dec 2011 - April 2013"
   },
   {
     "objectID": "pubs_reports.html",

@@ -1,0 +1,31 @@
+---
+title: "R Markdown Reproducible Reporting Template"
+subtitle: "A project of WellPower's Innovation Week 2019 - creating a template R Markdown report to be used by the evalution and research team to prepare quarterly and annual program reports"
+image: InnovWeek.png
+---
+
+# Background
+
+WellPower (formerly the Mental Health Center of Denver) hosts an Innovation Week within the Information Systems department each year. This is a week where the department takes a pause from regular projects and focused resources on innovative, proof of concept projects with the aim to bring them into production by the end of the week. In 2019, I pitched a project to recruit department members to support me in developing a template R Markdown file to be used by any of my evaluation and research team colleagues.
+
+I was the first staff person at WellPower to use R Markdown for reproducible, semi-automated reporting beginning in early 2019. However, I had not had the opportunity to dig into the full power of this tool. I used Innovation Week to build a more sustainable approach to using R Markdown and to teach my evaluation and research team colleagues how to use the template.
+
+# Timeline
+
+One week in November 2019
+
+# Main Activities
+
+-   Learn about package development in R\
+-   Simplify an existing R Markdown report used for an existing program's annual reporting\
+-   Annotate this existing R Markdown file with descriptions of the YAML header, file setup, code chunks, inline code, report sections, and commenting
+
+# Tools Created
+
+-   Custom CSS with organization's branding and style guidance to apply to all reports\
+-   R package to be used as a template when opening a new R Markdown file from the R Studio GUI
+-   R Markdown example
+
+# Results
+  
+{{< fa brands github >}} [GitHub Repository](https://github.com/nmhharty/MHCD-Innovation-Week-2019)
