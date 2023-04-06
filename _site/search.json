@@ -14,6 +14,13 @@
     "text": "Timeline\nDecember 2019 through July 2020\n\n\nMain Activities\n\nConduct analysis of survey results that were collected by the Senior Planning Committee\n\nClean and wrangle raw data for analysis in R\n\nConduct descriptive statistics in R\nCode qualitative data and perform mixed-methods crosstabs analysis in Dedoose\n\nPrepare infographic summary that can be posted on social media and community bulletin boards\n\nCreate presentation slides and present findings to Senior Planning Committee\n\nWrite final narrative report\n\n\n\nTools Created\nnone\n\n\nResults\nChaffee County Senior Master Plan Survey and Interview Analysis Report"
   },
   {
+    "objectID": "Projects/Grant_Portfolio_Equity_Analysis.html",
+    "href": "Projects/Grant_Portfolio_Equity_Analysis.html",
+    "title": "Federal Grant Portfolio Equity Analysis",
+    "section": "",
+    "text": "Timeline\nNovember 2022 - Present\n\n\nMain Activities\n\nAggregate information from four manually-updated Google Sheets\n\nEnsure reproducibility of analysis using GitHub for change management\n\nDeploy regular updates and enhancements to incorporate new data, answer new questions, and address data quality concerns\n\nPerform ad hoc analyses of team’s data to save time on federal reporting, assess program reach, and manage team capacity\n\n\n\nTools Created\n\nInternal RFA Equity Analysis Dashboard\n\nFunding portfolio KPIs\nHeat map of geographic reach of funded projects\n\nSummary tables detailing applications received and projects recommended for funding that serve disproportionately affected populations and geographic regions\n\nSummary tables detailing organizations that applied and were recommended for funding\n\n\n\n\nResults\n GitHub Repository for Dashboard Layouts"
+  },
+  {
     "objectID": "Projects/CCSP_Sustainability.html",
     "href": "Projects/CCSP_Sustainability.html",
     "title": "Sustainability of Colorectal Screening Patient Navigation",
@@ -39,7 +46,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Analysis and report of findings from survey of seniors in rural Colorado county\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA qualitative assessment of police-community relations in Aurora, CO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA project of WellPower’s Innovation Week 2019 - creating a template R Markdown report to be used by the evalution and research team to prepare quarterly and annual program reports\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContinuous enhancements to public-facing and internal dashboards to communicate COVID-19 surveillance information\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCase studies of sustainability approaches used by Colorado Cancer Screening Program partner clinics to support patient navigation for cancer screening\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Analysis and report of findings from survey of seniors in rural Colorado county\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA qualitative assessment of police-community relations in Aurora, CO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA project of WellPower’s Innovation Week 2019 - creating a template R Markdown report to be used by the evalution and research team to prepare quarterly and annual program reports\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContinuous enhancements to public-facing and internal dashboards to communicate COVID-19 surveillance information\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCase studies of sustainability approaches used by Colorado Cancer Screening Program partner clinics to support patient navigation for cancer screening\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -60,7 +67,7 @@
     "href": "index.html#experience",
     "title": "Nicole Harty, MPH",
     "section": "Experience",
-    "text": "Experience\nSelf-Employed | Public Health Program Evaluation and Data Consultant | April 2016 - Present\nRoutt County Public Health | Epidemiologist/Data Manager | Sept 2020 - May 2022\nWellPower (formerly Mental Health Center of Denver) | Program Evaluator | Oct 2018 - Jan 2021\nColorado School of Public Health | Project and Evaluation Coordinator | Jan 2015 - Oct 2018\nHarlow Center for Biological Psychology | Research Assistant | Dec 2011 - April 2013"
+    "text": "Experience\n\n\nColorado Department of Public Health and Environment\n Self-Employed\n\n Routt County Public Health\n\nWellPower\nfka Mental Health Center of Denver\n Colorado School of Public Health\n\nHarlow Center for Biological Psychology\n\nEquity Resource Supervisor\nSept 2022 - Present\n Public Health Program Evaluation and Data Consultant\nApril 2016 - Present\n Epidemiologist/Data Manager\nSept 2020 - May 2022\n Program Evaluator\nOct 2018 - Jan 2021\n Project and Evaluation Coordinator\nJan 2015 - Oct 2018\n Research Assistant\nDec 2011 - April 2013"
   },
   {
     "objectID": "pubs_reports.html",

@@ -1,0 +1,33 @@
+---
+title: "Federal Grant Portfolio Equity Analysis"
+subtitle: " "
+image: RFAdash.png
+
+---
+
+# Background  
+
+Working for a state health department, I built a dashboard to monitor a federal grant program that my team administered. This dashboard aggregates information from multiple Google Sheets to provide a summary of dollar amounts awarded over rolling application cycles, the grant program's reach within geographic areas and specific disproportionately affected populations, and comparison of applications received that were recommended for funding versus those that were not recommended for funding.
+
+# Timeline  
+
+November 2022 - Present
+
+# Main Activities  
+
+* Aggregate information from four manually-updated Google Sheets    
+* Ensure reproducibility of analysis using GitHub for change management   
+* Deploy regular updates and enhancements to incorporate new data, answer new questions, and address data quality concerns  
+* Perform ad hoc analyses of team's data to save time on federal reporting, assess program reach, and manage team capacity  
+
+# Tools Created  
+
+* Internal RFA Equity Analysis Dashboard  
+  + Funding portfolio KPIs
+  + Heat map of geographic reach of funded projects  
+  + Summary tables detailing applications received and projects recommended for funding that serve disproportionately affected populations and geographic regions    
+  + Summary tables detailing organizations that applied and were recommended for funding     
+
+# Results  
+
+{{< fa brands github >}} [GitHub Repository for Dashboard Layouts](https://github.com/nmhharty/Flexdashboard-layouts) 

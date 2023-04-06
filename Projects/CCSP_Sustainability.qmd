@@ -7,7 +7,7 @@ image: CCSP.png
 
 # Background  
 
-The Colorado Cancer Screening Program (formerly the Colorado Colorectal Screening Program), CCSP, has been providing evidence-based patient navigation and cancer screening services in partnership with safety-net clinics throughout Coloradans since 2006. With changes in health insurance and payment reform stemming from the Affordable Care Act and Medicaid expansion, along with reduced funding for CCSP, safety-net partner clinics had more opportunity and an increased need to sustain and fund preventative screening patient navigation within their clinical operations. This project set the foundation for the sustainability work CCSP undertook beggining in 2018.   
+The Colorado Cancer Screening Program (formerly the Colorado Colorectal Screening Program), CCSP, has been providing evidence-based patient navigation and cancer screening services in partnership with safety-net clinics throughout Coloradans since 2006. With changes in health insurance and payment reform stemming from the Affordable Care Act and Medicaid expansion, along with reduced funding for CCSP, safety-net partner clinics had more opportunity and an increased need to sustain and fund preventative screening patient navigation within their clinical operations. This project set the foundation for the sustainability work CCSP undertook beginning in 2018.   
 
 # Timeline  
 

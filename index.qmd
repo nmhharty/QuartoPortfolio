@@ -14,6 +14,7 @@ about:
 
 ---
 
+
 Nicole is a public health data specialist with expertise in program evaluation, community health assessments, and program planning. She is skilled at making data relevant and actionable for community members and policy-makers alike. When she is not using data to advance health equity, she is paddling whitewater rapids or skiing in the forests of her Colorado backyard. 
 
 ## Education  
@@ -26,8 +27,44 @@ BS in Neural Science
 
 ## Experience 
 
-**Self-Employed** | Public Health Program Evaluation and Data Consultant | April 2016 - Present  
-**Routt County Public Health** | Epidemiologist/Data Manager | Sept 2020 - May 2022  
-**WellPower** (formerly Mental Health Center of Denver) | Program Evaluator | Oct 2018 - Jan 2021  
-**Colorado School of Public Health** | Project and Evaluation Coordinator | Jan 2015 - Oct 2018  
-**Harlow Center for Biological Psychology** | Research Assistant | Dec 2011 - April 2013  
+::: columns
+
+:::: column
+**Colorado Department of Public Health and Environment**   
+<br>
+**Self-Employed**       
+<br>     
+<br>
+**Routt County Public Health**       
+<br>      
+**WellPower**  
+fka Mental Health Center of Denver        
+<br>
+**Colorado School of Public Health**       
+<br>  
+**Harlow Center for Biological Psychology**   
+::::
+
+:::: column  
+
+  
+*Equity Resource Supervisor*  
+Sept 2022 - Present     
+<br>
+*Public Health Program Evaluation and Data Consultant*  
+April 2016 - Present       
+<br>
+*Epidemiologist/Data Manager*  
+Sept 2020 - May 2022       
+<br>
+*Program Evaluator*  
+Oct 2018 - Jan 2021      
+<br> 
+*Project and Evaluation Coordinator*  
+Jan 2015 - Oct 2018       
+<br>
+*Research Assistant*  
+Dec 2011 - April 2013  
+::::
+
+:::

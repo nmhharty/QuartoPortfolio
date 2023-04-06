@@ -1,0 +1,40 @@
+---
+title: "Skills"
+
+---
+
+:::: {style="display: flex;"}
+
+::: {}
+
+## {{< fa broom >}} Data Cleaning    
+
+## {{< fa object-group >}} Data Wrangling  
+
+## {{< fa google >}} Google Suite
+
+:::
+
+::: {}
+\  
+\  
+\ 
+\  
+:::  
+
+::: {}
+
+## {{< fa pen-to-square >}} Grant Writing    
+
+## {{< fa code >}} Programming  
+
+## {{< fa folder-open >}} Project Management 
+
+:::
+
+::::
+
+
+
+
+
