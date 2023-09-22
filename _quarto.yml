@@ -14,7 +14,7 @@ website:
       - projects.qmd
       - skills.qmd  
     right:
-      - href: https://docs.google.com/document/d/1MyQs7jgSp3wSKrzz_-kFQ5e5jHJk7yx6/edit?usp=sharing&ouid=107035069803069764702&rtpof=true&sd=true
+      - href: https://docs.google.com/document/d/1S2ETgy2U0OXTqqKKPpCdZNsVKK9-nYxwhbq7yEpxjrM/edit?usp=sharing
         text: "{{< fa regular file >}} Resume"
       
         
