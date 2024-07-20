@@ -11,7 +11,7 @@ title: "Skills"
 
 ## {{< fa object-group >}} Data Wrangling  
 
-## {{< fa google >}} Google Suite
+## {{< fa google-drive >}} Google Suite
 
 :::
 
@@ -25,6 +25,8 @@ title: "Skills"
 ::: {}
 
 ## {{< fa pen-to-square >}} Grant Writing    
+
+## {{< fa people-group >}} Group Facilitation 
 
 ## {{< fa code >}} Programming  
 

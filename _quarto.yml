@@ -14,12 +14,12 @@ website:
       - projects.qmd
       - skills.qmd  
     right:
-      - href: https://docs.google.com/document/d/1S2ETgy2U0OXTqqKKPpCdZNsVKK9-nYxwhbq7yEpxjrM/edit?usp=sharing
+      - href: https://docs.google.com/document/d/1S2ETgy2U0OXTqqKKPpCdZNsVKK9-nYxwhbq7yEpxjrM/edit
         text: "{{< fa regular file >}} Resume"
       
         
   page-footer: 
-    left: "{{< fa regular copyright >}} Nicole Harty, 2023. Made with [Quarto](https://quarto.org)."
+    left: "{{< fa regular copyright >}} Nicole Harty, 2024. Made with [Quarto](https://quarto.org)."
   link-external-newwindow:
 
 execute: 

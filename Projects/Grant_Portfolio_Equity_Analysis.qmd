@@ -1,13 +1,13 @@
 ---
 title: "Federal Grant Portfolio Equity Analysis"
-subtitle: " "
+subtitle: "Quarterly snapshot of grant portfolio funding equity KPIs"
 image: RFAdash.png
 
 ---
 
 # Background  
 
-Working for a state health department, I built a dashboard to monitor a federal grant program that my team administered. This dashboard aggregates information from multiple Google Sheets to provide a summary of dollar amounts awarded over rolling application cycles, the grant program's reach within geographic areas and specific disproportionately affected populations, and comparison of applications received that were recommended for funding versus those that were not recommended for funding.
+Working for a state health department, I built a dashboard to monitor a federal grant program that my team administers. This dashboard aggregates information from multiple Google Sheets to provide a summary of dollar amounts awarded over rolling application cycles, the grant program's reach within geographic areas and specific disproportionately affected populations, and comparison of applications received that were recommended for funding versus those that were not recommended for funding.
 
 # Timeline  
 

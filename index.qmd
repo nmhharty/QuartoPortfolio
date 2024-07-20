@@ -8,7 +8,7 @@ about:
       text: Github
       href: https://github.com/nmhharty
     - text: "{{< fa regular file >}}  Resume"
-      href: https://docs.google.com/document/d/1MyQs7jgSp3wSKrzz_-kFQ5e5jHJk7yx6/edit?usp=sharing&ouid=107035069803069764702&rtpof=true&sd=true
+      href: https://docs.google.com/document/d/1S2ETgy2U0OXTqqKKPpCdZNsVKK9-nYxwhbq7yEpxjrM/edit
     - text: "{{< fa envelope >}} Email"
       href: mailto:nicole.m.harty@gmail.com
 
