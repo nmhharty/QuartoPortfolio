@@ -1,3 +1,7 @@
+# output files
+/.quarto/
+/_site/
+
 # History files
 .Rhistory
 .Rapp.history

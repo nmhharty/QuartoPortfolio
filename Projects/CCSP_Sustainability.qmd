@@ -32,6 +32,6 @@ April 2017 - July 2018
 
 # Results  
 
-{{< fa file-pdf >}} [Patient Navigation Sustainability Case Studies](https://drive.google.com/drive/u/0/folders/1WXctDnZLg6mlSJDPu7UlPBKmDN2FZrMq)
+{{< fa file-pdf >}} [Patient Navigation Sustainability Case Studies](https://drive.google.com/file/d/1DsBDBk-fu4jX2D0Wfu9ZPhrThyQA2s6u/view)
 
-{{< fa file-lines >}} [Making the Business Case for CRC Patient Navigation in the Primary Care Safety-Net Clinic](https://drive.google.com/file/d/1RI8Udt7jk9pajq0yS2Jm3Og-DOfCxe1l/view)
+{{< fa file-pdf >}} [Making the Business Case for CRC Patient Navigation in the Primary Care Safety-Net Clinic](https://drive.google.com/file/d/1RI8Udt7jk9pajq0yS2Jm3Og-DOfCxe1l/view)

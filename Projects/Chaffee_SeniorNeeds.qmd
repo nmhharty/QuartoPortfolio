@@ -33,3 +33,5 @@ none
 # Results  
 
 Chaffee County Senior Master Plan Survey and Interview Analysis Report
+
+{{< fa file-pdf >}} [Chaffee County Senior Master Plan Presentation](https://drive.google.com/file/d/1pDWnLlHZz2FB5CY5gdZLXVuAV5yFDLM0/view)

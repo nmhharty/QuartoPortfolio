@@ -11,7 +11,9 @@ title: "Skills"
 
 ## {{< fa object-group >}} Data Wrangling  
 
-## {{< fa google-drive >}} Google Suite
+## {{< fa brands fa google >}} Google Suite
+
+## {{< fa pen-to-square >}} Grant Writing    
 
 :::
 
@@ -24,13 +26,13 @@ title: "Skills"
 
 ::: {}
 
-## {{< fa pen-to-square >}} Grant Writing    
-
 ## {{< fa people-group >}} Group Facilitation 
 
-## {{< fa code >}} Programming  
+## {{< fa diagram-project >}} Program Planning & Evaluation
 
 ## {{< fa folder-open >}} Project Management 
+
+## {{< fa code >}} R, flexdashboard, Shiny, Quarto  
 
 :::
 

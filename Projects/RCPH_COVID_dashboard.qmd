@@ -45,6 +45,4 @@ September 2020 - May 2022
 
 {{< fa brands github >}} [GitHub Repository for Dashboard](https://github.com/nmhharty/COVID-Dashboard)  
   
-{{< fa brands github >}} [GitHub Repository for Other Required Files](https://github.com/nmhharty/Shared-Resources)  
-
-{{< fa link >}} [Routt County COVID Dashboard](https://routtco-publichealth.shinyapps.io/COVID19-Dashboard/)
+{{< fa brands github >}} [GitHub Repository for Other Required Files](https://github.com/nmhharty/Shared-Resources) 
