@@ -11,7 +11,7 @@ title: "Skills"
 
 ## {{< fa object-group >}} Data Wrangling  
 
-## {{< fa brands fa google >}} Google Suite
+## {{< fa brands fa google >}} Google Suite, MacOS, and Microsoft Office
 
 ## {{< fa pen-to-square >}} Grant Writing    
 
