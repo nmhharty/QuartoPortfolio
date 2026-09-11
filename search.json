@@ -56,6 +56,48 @@
     "text": "Background\nOne of Nicole’s first tasks when hired as Routt County Public Health’s Epidemiologist/Data Manager in September 2020 was to redesign and improve the existing COVID-19 dashbaord used by the county. The requirements for this dashboard, based upon feedback from policy makers and department staff, were\n\nprovide locally-relevant, comprehensive surveillance data\n\nuse thresholds and categories that are consistent with those used by the State of Colorado\n\nensure reproducibility of analysis and adaptability of tools to accommodate changing data and changing questions\n\nNicole led all development and enhancements of this project through May 2022 when she left her position with Routt County. The dashboard continued to be published through 2023.\n\n\nTimeline\nSeptember 2020 - May 2022\n\n\nMain Activities\n\nRecreate analyses conducted in Excel and Google Data Studio in R Markdown\nCreate interactive, flexible, dynamic graphs using plotly\n\nDocument all changes to dashboard data sources and analyses\n\nEnsure reproducibility of analysis using GitHub for change management\n\nCreate presentation slides for Board of Health meetings presenting the same graphs as dashboard\n\nRefactor code to use child Rmd files for report sections to allow for ultimate flexibility and streamlined rendering across output files\n\nDeploy regular updates and enhancements to answer new questions and address data quality concerns\n\n\n\nTools Created\n\nPublic COVID-19 Dashboard\n\nSummary graphs and tables detailing cumulative and rolling incidence\n\nSummary tables detailing vaccination rates\n\nSummary graphs detailing source of exposure, outbreak setting, and residency of cases\n\nInternal COVID-19 Dashboard\n\nEverything included in public dashboard\nSummary tables of vaccine compliance, distribution, and data quality\n\nSummary graphs of case investigation and contact tracing metrics\n\n\nIndividual School District-specific COVID-19 Dashboards\n\n\n\nResults\n GitHub Repository for Dashboard\n GitHub Repository for Other Required Files"
   },
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Nicole Harty, MPH",
+    "section": "",
+    "text": "📧 nicole.m.harty@gmail.com | 🌐 Portfolio | 📍 Steamboat Springs, CO"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Nicole Harty, MPH",
+    "section": "Summary",
+    "text": "Summary\n\nSkilled in data visualization, data storytelling, stakeholder engagement and group facilitation\n\nHighly adept at uncovering hidden dependencies and consequences in complex systems\n\nSimultaneously understands details necessary to implement projects and see big picture strategy"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Nicole Harty, MPH",
+    "section": "Experience",
+    "text": "Experience\n\nNHSN Data Unit Manager | Colorado Department of Public Health and Environment\nMarch 2026 – Present\n\nWithin first 90 days, transformed a 200-page manual report writing process into a modularized, programmatically-written report resulting in 20% error reduction and 75% timeline reduction\n\nSupervise 3-person unit of epidemiologists and analysts who coordinate health care facility reporting of HAIs to NHSN, analyze NHSN data, and provide oversight for data management, analysis, and presentation of NHSN and other HAI/AR Program data\n\nInterim Resource Support Program Manager September 2022 – June 2025\n\nDevelop and refine 12+ policies and 15+ procedures for Resource Support Unit to ensure consistency in program operations throughout the lifecycle of contracts monitored under $22M grant program\nProvide direct supervision to 5 staff to ensure team is appropriately staffed, qualified and competent\nCreate and maintain dashboard of 12+ funding portfolio KPIs using R, flexdashboard, and Shiny\n\n\n\nIndependent Consultant | Nicole Harty Consulting, LLC\nApril 2016 - Present\n\nDesign, implement, analyze, and report qualitative and quantitative assessment projects for local government and non-profit clients\n\nProvide ongoing technical assistance for implementation and sustainability of data collection protocols\n\nDesign grant-funded programs, develop evaluation plans, and write grant applications\n\n\n\nConsultant & Collaborator | WE Public Health\nJuly 2022 - Present\n\nWrite RFP responses and proposals (7+) to obtain contract work supporting public health projects\n\nServe as project manager for multidisciplinary project teams of 3-5 independent consultants\n\n\n\nEpidemiologist/Data Manager | Routt County Public Health\nSeptember 2020 - May 2022\n\nBuilt, maintained, and updated COVID-19 data systems and reporting dashboard using SQL, Google Suite, R, Shiny, and GitHub to present decision-makers and community members with actionable information\nLed and managed 10 person case investigation and contact tracing team to conduct disease and outbreak investigations in timely, efficient manner meeting requirements of CDC and CDPHE funding\nCreated new data systems to ensure data quality, epidemiologic surveillance, and program evaluation\n\n\n\nProgram Evaluator | WellPower\nOctober 2018 - January 2021\n\nBuilt automated, reproducible evaluation reports using RMarkdown to save up to 50% time\nCollaborated with business intelligence and application developers to create and implement automated data collection and data management protocols\nWrote sustainability plan and created process maps highlighting barriers and facilitators to quality service delivery to enhance financial sustainability of grant-funded transition-age youth mental health and well-being program"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Nicole Harty, MPH",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming Languages: R, SQL\nTools & Frameworks: Git, Quarto, Google Data Studio, Tableau\nData Skills: descriptive statistics, survey analysis, pivot tables, data visualization"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Nicole Harty, MPH",
+    "section": "Education",
+    "text": "Education\n\nAdvanced Leadership Training Program\nRegional Institute for Health and Environmental Leadership\n\n\nMPH, Community and Behavioral Health\nColorado School of Public Health\n\n\nBS, Neural Science\nNew York University"
+  },
+  {
+    "objectID": "resume.html#training-and-certifications",
+    "href": "resume.html#training-and-certifications",
+    "title": "Nicole Harty, MPH",
+    "section": "Training and Certifications",
+    "text": "Training and Certifications\n\n\n\nADKAR Change Management for Supervisors\nCDPHE Project Coordination / Contract Management\nCITI Human Subjects Research Certification\nCrucial Conversations\n\nFirst Aid and CPR\n\n\n\n\n\nGrants Management Body of Knowledge Certificate\n\nMental Health First Aid\n\nNIMS ICS 100, ICS-700\n\nState of Colorado Statewide Supervisor’s Certificate"
+  },
+  {
     "objectID": "Projects/Chaffee_SeniorNeeds.html",
     "href": "Projects/Chaffee_SeniorNeeds.html",
     "title": "Chaffee County Senior Needs Assessment",
