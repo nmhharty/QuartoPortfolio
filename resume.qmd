@@ -1,4 +1,101 @@
 ---
-title: "Resume"
-
+title: "Nicole Harty, MPH"
+subtitle: "Public Health Data Specialist"
+format:
+  html:
+    toc: false
+    css: style.css
+  pdf:
+    css: style.css
 ---
+
+::: {.contact-block}
+📧 nicole.m.harty@gmail.com | 🌐 [Portfolio](https://nmhharty.github.io/QuartoPortfolio/) | 📍 Steamboat Springs, CO
+:::
+
+## Summary
+* Skilled in data visualization, data storytelling, stakeholder engagement and group facilitation   
+* Highly adept at uncovering hidden dependencies and consequences in complex systems  
+* Simultaneously understands details necessary to implement projects and see big picture strategy  
+
+## Experience
+
+### NHSN Data Unit Manager | Colorado Department of Public Health and Environment
+*March 2026 – Present*
+
+* Within first 90 days, transformed a 200-page manual report writing process into a modularized, programmatically-written report resulting in 20% error reduction and 75% timeline reduction  
+* Supervise 3-person unit of epidemiologists and analysts who coordinate health care facility reporting of HAIs to NHSN, analyze NHSN data, and provide oversight for data management, analysis, and presentation of NHSN and other HAI/AR Program data
+
+*Interim Resource Support Program Manager*
+*September 2022 – June 2025*
+
+* Develop and refine 12+ policies and 15+ procedures for Resource Support Unit to ensure consistency in program operations throughout the lifecycle of contracts monitored under $22M grant program
+* Provide direct supervision to 5 staff to ensure team is appropriately staffed, qualified and competent
+* Create and maintain dashboard of 12+ funding portfolio KPIs using R, flexdashboard, and Shiny
+
+### Independent Consultant | Nicole Harty Consulting, LLC
+*April 2016 - Present*
+
+* Design, implement, analyze, and report qualitative and quantitative assessment projects for local government and non-profit clients  
+* Provide ongoing technical assistance for implementation and sustainability of data collection protocols  
+* Design grant-funded programs, develop evaluation plans, and write grant applications
+
+### Consultant & Collaborator | WE Public Health
+*July 2022 - Present*
+
+* Write RFP responses and proposals (7+) to obtain contract work supporting public health projects  
+* Serve as project manager for multidisciplinary project teams of 3-5 independent consultants
+
+### Epidemiologist/Data Manager | Routt County Public Health
+*September 2020 - May 2022*
+
+* Built, maintained, and updated COVID-19 data systems and reporting dashboard using SQL, Google Suite, R, Shiny, and GitHub to present decision-makers and community members with actionable information
+* Led and managed 10 person case investigation and contact tracing team to conduct disease and outbreak investigations in timely, efficient manner meeting requirements of CDC and CDPHE funding
+* Created new data systems to ensure data quality, epidemiologic surveillance, and program evaluation
+
+### Program Evaluator | WellPower
+*October 2018 - January 2021*
+
+* Built automated, reproducible evaluation reports using RMarkdown to save up to 50% time
+* Collaborated with business intelligence and application developers to create and implement automated data collection and data management protocols
+* Wrote sustainability plan and created process maps highlighting barriers and facilitators to quality service delivery to enhance financial sustainability of grant-funded transition-age youth mental health and well-being program  
+
+## Skills
+
+* **Programming Languages:** R, SQL 
+* **Tools & Frameworks:** Git, Quarto, Google Data Studio, Tableau
+* **Data Skills:** descriptive statistics, survey analysis, pivot tables, data visualization  
+
+## Education
+
+### Advanced Leadership Training Program  
+*Regional Institute for Health and Environmental Leadership*
+
+### MPH, Community and Behavioral Health
+*Colorado School of Public Health* 
+
+### BS, Neural Science
+*New York University*   
+
+## Training and Certifications  
+
+:::: {.columns}
+
+::: {.column width="47.5%"}
+* ADKAR Change Management for Supervisors
+* CDPHE Project Coordination / Contract Management
+* CITI Human Subjects Research Certification 
+* Crucial Conversations  
+* First Aid and CPR
+
+:::
+
+::: {.column width="5%"}
+<!-- This is an empty column to create a gap between text columns -->
+:::
+
+::: {.column width="47.5%"}
+* Grants Management Body of Knowledge Certificate   
+* Mental Health First Aid  
+* NIMS ICS 100, ICS-700  
+* State of Colorado Statewide Supervisor’s Certificate  
