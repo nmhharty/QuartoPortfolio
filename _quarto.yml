@@ -20,7 +20,6 @@ website:
         
   page-footer: 
     left: "{{< fa regular copyright >}} Nicole Harty, 2024. Made with [Quarto](https://quarto.org)."
-  link-external-newwindow:
 
 execute: 
   freeze: auto

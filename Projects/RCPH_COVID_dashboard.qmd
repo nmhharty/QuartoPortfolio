@@ -13,7 +13,7 @@ One of Nicole's first tasks when hired as Routt County Public Health's Epidemiol
 2. use thresholds and categories that are consistent with those used by the State of Colorado  
 3. ensure reproducibility of analysis and adaptability of tools to accommodate changing data and changing questions   
 
-Nicole led all development and enhancements of this project through May 2022 when she left her position with Routt County. The dashboard continues to be published but development and enhancements have stopped.  
+Nicole led all development and enhancements of this project through May 2022 when she left her position with Routt County. The dashboard continued to be published through 2023.  
 
 # Timeline  
 

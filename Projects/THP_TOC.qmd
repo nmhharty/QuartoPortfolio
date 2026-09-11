@@ -1,0 +1,35 @@
+---
+title: "The Health Partnership's Community Impact Program Theory of Change"
+subtitle: "Developing a theory of change for a community-based organization addressing health equity and behavioral health access in northwest Colorado"
+image: THP_TOC.png
+
+---
+
+# Background  
+
+The Health Partnership is a community organization that seeks to cultivate a strong data culture. They created their first theory of change for a program in 2022, and through collaboration with Nicole, created and maintain two dashboards to track data points related to the theory of change for their two direct service programs.  
+
+Building upon the data work with their direct service programs, The Health Partnership contracted with Nicole to help them develop a theory of change for their community impact program with the ultimate goal to develop a data visualization or similar mechanism to assess progress towards their program goals.  
+
+# Timeline  
+
+January - August 2026
+
+# Main Activities  
+
+* Facilitate two workshops to idenitfy program goal, determine root causes of problem program is intended to address, define program outcomes, and document the context and assumptions under which the program operates  
+* Create comprehensive theory of changed based upon the [PRECEDE-PROCEED model](https://ctb.ku.edu/en/table-contents/overview/other-models-promoting-community-health-and-development/preceder-proceder/main)
+* Create theory of change graphic to depict high-level overview of the theory of change  
+* Identify existing data sources that could provide data specific to assess each indicator in the theory of change  
+* Prioritize data points to monitor based upon ease of collecting and importance to the program  
+* Write recommendations to ensure data points are collected and stored appropriately to facilitate analysis  
+
+
+# Tools Created  
+
+* Theory of Change Worksheets  
+* Data sources crosswalk to theory of change indicators
+
+# Results  
+
+Community Impact Program theory of change 

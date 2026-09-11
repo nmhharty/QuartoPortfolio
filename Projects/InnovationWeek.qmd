@@ -6,9 +6,9 @@ image: InnovWeek.png
 
 # Background
 
-WellPower (formerly the Mental Health Center of Denver) hosts an Innovation Week within the Information Systems department each year. This is a week where the department takes a pause from regular projects and focused resources on innovative, proof of concept projects with the aim to bring them into production by the end of the week. In 2019, I pitched a project to recruit department members to support me in developing a template R Markdown file to be used by any of my evaluation and research team colleagues.
+WellPower (formerly the Mental Health Center of Denver) hosts an Innovation Week within the Information Systems department each year. This is a week where the department takes a pause from regular projects and focused resources on innovative, proof of concept projects with the aim to bring them into production by the end of the week. In 2019, Nicole pitched a project to recruit department members to support her in developing a template R Markdown file to be used by anyone in the evaluation and research team.
 
-I was the first staff person at WellPower to use R Markdown for reproducible, semi-automated reporting beginning in early 2019. However, I had not had the opportunity to dig into the full power of this tool. I used Innovation Week to build a more sustainable approach to using R Markdown and to teach my evaluation and research team colleagues how to use the template.
+Nicole was the first staff person at WellPower to use R Markdown for reproducible, semi-automated reporting beginning in early 2019. She used Innovation Week to build a more sustainable approach to using R Markdown and to teach her evaluation and research team colleagues how to use the template.
 
 # Timeline
 

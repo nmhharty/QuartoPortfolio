@@ -80,6 +80,10 @@ Friedman, B., **Harty, N.M.**, Tung, G. (2017, September). *Kids, Cops, and Comm
 
 ## {{< fa file-pdf >}} Reports  
 
+### 2026  
+
+Colorado Department of Public Health and Environment. (2026). *2026 Healthcare Associated Infections Annual Report.* Report prepared on behalf of the HAI Program.  
+
 ### 2024
 WE Public Health. (2024). *Healthcare-Associated Infections (HAIs)/Antimicrobial Resistance (AR) Competency Training Workbook.* Report prepared for the National Association of City and County Health Officials.  
   
